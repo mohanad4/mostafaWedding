@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mostafaWedding/static/css/main.1f343545.css",
-    "main.js": "/mostafaWedding/static/js/main.cca3f35e.js",
+    "main.css": "/mostafaWedding/static/css/main.44599756.css",
+    "main.js": "/mostafaWedding/static/js/main.84e6ebfe.js",
     "static/js/787.4ff3cea1.chunk.js": "/mostafaWedding/static/js/787.4ff3cea1.chunk.js",
     "static/media/test.mp3": "/mostafaWedding/static/media/test.e1e41b37c304d5ce8647.mp3",
     "static/media/12.gif": "/mostafaWedding/static/media/12.96ce8e5f2ba4a4e86826.gif",
     "static/media/test.jpg": "/mostafaWedding/static/media/test.a2d455d3238cf9afe8ae.jpg",
-    "static/media/me.jpeg": "/mostafaWedding/static/media/me.ea441e2680c04792ae6a.jpeg",
+    "static/media/23.jpeg": "/mostafaWedding/static/media/23.911719358150deebc4dc.jpeg",
     "static/media/t1.png": "/mostafaWedding/static/media/t1.a74376193ee7dcb352ef.png",
     "index.html": "/mostafaWedding/index.html",
-    "main.1f343545.css.map": "/mostafaWedding/static/css/main.1f343545.css.map",
-    "main.cca3f35e.js.map": "/mostafaWedding/static/js/main.cca3f35e.js.map",
+    "main.44599756.css.map": "/mostafaWedding/static/css/main.44599756.css.map",
+    "main.84e6ebfe.js.map": "/mostafaWedding/static/js/main.84e6ebfe.js.map",
     "787.4ff3cea1.chunk.js.map": "/mostafaWedding/static/js/787.4ff3cea1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f343545.css",
-    "static/js/main.cca3f35e.js"
+    "static/css/main.44599756.css",
+    "static/js/main.84e6ebfe.js"
   ]
 }
